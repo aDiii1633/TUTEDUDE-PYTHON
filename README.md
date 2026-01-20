@@ -10,6 +10,6 @@ print(a*b)<br>
 print(a/b)<br>
 
 # TASK 2 
-fn = input("enter your first name:")
-sn = input("enter your second name:")
-print ('HELLO,',fn,sn,'!',' WELCOME TO THE PYTHON PROGRAM.')
+fn = input("enter your first name:") <br>
+sn = input("enter your second name:")<br>
+print ('HELLO,',fn,sn,'!',' WELCOME TO THE PYTHON PROGRAM.')<br>
